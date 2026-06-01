@@ -1,0 +1,26 @@
+{
+  "name": "kmp-media-agent-gateway",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "demo:android": "tsx scripts/midscene-android-demo.ts"
+  },
+  "devDependencies": {
+    "@midscene/android": "latest",
+    "dotenv": "latest",
+    "tsx": "latest"
+  }
+}
+{
+  "name": "kmp-media-agent-gateway",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "demo:android": "tsx scripts/midscene-android-demo.ts"
+  },
+  "devDependencies": {
+    "@midscene/android": "latest",
+    "dotenv": "latest",
+    "tsx": "latest"
+  }
+}
